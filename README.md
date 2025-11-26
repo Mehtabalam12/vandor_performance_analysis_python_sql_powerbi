@@ -151,11 +151,7 @@ python scripts/get_vendor_summary.py
 - Improve marketing for underperforming vendors
 
 ---
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Madhur**  
-Data/Business Analyst  
-📧 Email: mmadhurm11@gmail.com  
 
 
 # vandor_performance_analysis_python_sql_powerbi
